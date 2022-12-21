@@ -1,0 +1,11 @@
+.myNavbar {
+    box-align: center;
+    background-color: aquamarine;
+    top: 0;
+    bottom: 0;
+}
+#picture {
+    height: 500px;
+    width:100%;
+    border: none;
+}
